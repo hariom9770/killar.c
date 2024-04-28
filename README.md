@@ -1,2 +1,4 @@
 # killar.c
-beginner but honourable
+Hariom patel
+futcher engneer.
+available in linkdin.
